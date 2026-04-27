@@ -9,7 +9,6 @@ Manual inventory counts across four locations with different product mixes were 
 Designed and built a structured Excel workbook with location-specific inventory sheets, automated per-unit cost calculations from case and keg pricing, and a summary dashboard tracking total inventory value by location.
 
 ## Results
-- Eliminated 80 labor hours per week
 - Generated $22,000+ in annual cost savings
 - Improved inventory accuracy across all four locations
 
